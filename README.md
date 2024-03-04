@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I’m an enthusiastic QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">  with a solid understanding of the SDLC and STLC. Proficient in creating comprehensive test documentation, executing test cases, and documenting accurate bug reports. Strong analytical and problem-solving skills, ensuring thorough testing coverage to deliver high-quality software products. A quick learner with excellent communication and collaboration abilities, dedicated to contributing to the success of project teams through software testing.
+I’m an enthusiastic QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a solid understanding of the SDLC and STLC. Proficient in creating comprehensive test documentation, executing test cases, and documenting accurate bug reports. A quick learner with excellent communication and collaboration abilities. I’m dedicated to contributing to the success of project teams through software testing.
 
 My journey in IT began in 2022 with the course "Basics of Software Testing" by Lviv IT School. Since then, I have continued to study and practice Software Testing, and currently, I’m an intern for the QA Manual Internship Program by GlobalLogic Ukraine!
 
