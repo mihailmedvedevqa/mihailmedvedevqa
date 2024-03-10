@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I’m an enthusiastic QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a solid understanding of the SDLC and STLC. Proficient in creating comprehensive test documentation, executing test cases, and documenting accurate bug reports. A quick learner with excellent communication and collaboration abilities. I’m dedicated to contributing to the success of project teams through software testing.
+I’m an enthusiastic QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with a solid understanding of SDLC and STLC. Proficient in creating comprehensive test documentation, executing test cases, and documenting accurate bug reports. I’m dedicated to contributing to the success of project teams through software testing.
 
 My journey in IT began in 2022 with the course "Basics of Software Testing" by Lviv IT School. Since then, I have continued to study and practice Software Testing, and currently, I’m an intern for the QA Manual Internship Program by GlobalLogic Ukraine!
 
@@ -35,7 +35,6 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swagger.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp;
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp;
 </div>
 
