@@ -73,10 +73,10 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 |Title                                                                                                               	   |  Date   |
 | -----------------------------------------------------------------------------------------------------------------------| :-----: |
 | Git For Distributed Development of Software by Linux Foundation, Cloud Native Computing Foundation, Prometheus     	   | 10/2023 |
-| Tester From Scratch 2023 by Artsiom Rusau, Udemy                                                                   	   | 09/2023 |
+| Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash by Artsiom Rusau, Udemy                              	   | 09/2023 |
 | Intermediate SQL by Sololearn                                                                                      	   | 08/2023 |
 | Introduction to SQL by Sololearn                                                                                   	   | 08/2023 |
-| Software Testing by Epam Ukraine                                                                                   	   | 06/2023 |
+| Software Testing Introduction by EPAM Ukraine                                                                      	   | 06/2023 |
 | Software Testing from Zero to Expert by Alex Smith, Udemy                                                          	   | 11/2022 |
 | Basics of Software Testing by Lviv IT School, Prometheus                                                           	   | 05/2022 |
 
