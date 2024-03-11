@@ -18,7 +18,7 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
  
 ---             	 
 
-### 📁 Test documentation:
+### 📒 Test documentation:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 
 ---
 
-### 🛠 Web application testing:
+### 💻 Web application testing:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;
@@ -68,7 +68,7 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 
 ---
 
-### 💻 Courses completed:
+### 🎓 Courses completed:
 
 |Title                                                                                                               	   |  Date   |
 | -----------------------------------------------------------------------------------------------------------------------| :-----: |
@@ -82,7 +82,7 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 
 ---
 
-### ⚙️ GitHub statistics:
+### 📊 GitHub statistics:
 
 <b>My GitHub Stats</b>
 
