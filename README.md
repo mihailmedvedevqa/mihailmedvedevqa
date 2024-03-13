@@ -59,7 +59,7 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 
 ---
 
-### ✏️ Working with code:
+### ⌨ Working with code:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -72,13 +72,19 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 
 |Title                                                                                                               	   |  Date   |
 | -----------------------------------------------------------------------------------------------------------------------| :-----: |
-| Git For Distributed Development of Software by Linux Foundation, Cloud Native Computing Foundation, Prometheus     	   | 10/2023 |
+| Git For Distributed Development of Software by Prometheus     	                                                       | 10/2023 |
 | Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash by Artsiom Rusau, Udemy                              	   | 09/2023 |
-| Intermediate SQL by Sololearn                                                                                      	   | 08/2023 |
-| Introduction to SQL by Sololearn                                                                                   	   | 08/2023 |
-| Software Testing Introduction by EPAM Ukraine                                                                      	   | 06/2023 |
+| Intermediate SQL by Sololearn                                                                                      	   | 08/2023 |                                                                              	  
+| Software Testing Introduction by EPAM University Program                                                           	   | 06/2023 |
 | Software Testing from Zero to Expert by Alex Smith, Udemy                                                          	   | 11/2022 |
-| Basics of Software Testing by Lviv IT School, Prometheus                                                           	   | 05/2022 |
+| Basics of Software Testing by Prometheus                                                                          	   | 05/2022 |
+
+---
+
+### 📚 Books read:
+"Software Testing. Base Course. Third Edition" by Svyatoslav Kulikov
+"A Practitioner's Guide to Software Test Design" by Lee Copeland
+"Pro Git 2nd ed. Edition" by Scott Chacon, Ben Straub
 
 ---
 
