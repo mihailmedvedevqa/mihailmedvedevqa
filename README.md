@@ -82,9 +82,9 @@ My journey in IT began in 2022 with the course "Basics of Software Testing" by L
 ---
 
 ### 📚 Books read:
-"Software Testing. Base Course. Third Edition" by Svyatoslav Kulikov
-"A Practitioner's Guide to Software Test Design" by Lee Copeland
-"Pro Git 2nd ed. Edition" by Scott Chacon, Ben Straub
+1. "Software Testing. Base Course. Third Edition" by Svyatoslav Kulikov
+2. "A Practitioner's Guide to Software Test Design" by Lee Copeland
+3. "Pro Git 2nd ed. Edition" by Scott Chacon, Ben Straub
 
 ---
 
