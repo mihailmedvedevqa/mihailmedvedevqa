@@ -30,7 +30,7 @@ I’m an enthusiastic QA Engineer <img src="https://media.giphy.com/media/WUlplc
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chromedevtools" alt="chromedevtools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swagger.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp;
 </div>
 
