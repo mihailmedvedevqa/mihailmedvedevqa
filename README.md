@@ -70,12 +70,12 @@ QA Engineer with 1+ years of experience in manual and automated testing, a deep 
 
 |Title                                                                                                               	   |  Date   |
 | -----------------------------------------------------------------------------------------------------------------------| :-----: |
-| Git For Distributed Development of Software from Prometheus     	                                                     | 10/2023 |
-| Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash from Artsiom Rusau, Udemy                            	   | 09/2023 |
-| Intermediate SQL from Sololearn                                                                                    	   | 08/2023 |                                                                              	  
-| Software Testing Introduction from EPAM University Program                                                         	   | 06/2023 |
-| Software Testing from Zero to Expert from Alex Smith, Udemy                                                        	   | 11/2022 |
-| Basics of Software Testing from Prometheus                                                                         	   | 05/2022 |
+| Git For Distributed Development of Software                     	                                                     | 10/2023 |
+| Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash                                                     	   | 09/2023 |
+| Intermediate SQL                                                                                                  	   | 08/2023 |                                                                              	  
+| Software Testing Introduction                                                                                     	   | 06/2023 |
+| Software Testing from Zero to Expert                                                                              	   | 11/2022 |
+| Basics of Software Testing                                                                                        	   | 05/2022 |
 
 ---
 
