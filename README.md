@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-QA Engineer with 1+ years of experience in manual and automated testing, a deep understanding of SDLC and STLC, and proficiency in Agile/Scrum methodologies. Skilled in testing web and mobile applications and applying various testing methodologies to ensure high-quality software.
+QA Engineer with 1.5+ years of experience in manual and automated testing. Skilled in web and mobile application testing. Web and API automation with Python, Selenium, and Requests. Proficient in SDLC/STLC. Conducted full-cycle testing for 6 projects across construction management, e-learning, and e-commerce solutions. Proven collaborator in Agile/Scrum environments, adept at analyzing requirements, collaborating with cross-functional teams, and working independently to meet project goals.
 
 ---
 
@@ -70,19 +70,19 @@ QA Engineer with 1+ years of experience in manual and automated testing, a deep 
 
 |Title                                                                                                               	   |  Date   |
 | -----------------------------------------------------------------------------------------------------------------------| :-----: |
-| Git For Distributed Development of Software                     	                                                     | 10/2023 |
-| Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash                                                     	   | 09/2023 |
-| Intermediate SQL                                                                                                  	   | 08/2023 |                                                                              	  
-| Software Testing Introduction                                                                                     	   | 06/2023 |
-| Software Testing from Zero to Expert                                                                              	   | 11/2022 |
-| Basics of Software Testing                                                                                        	   | 05/2022 |
+| Prometheus, Git For Distributed Development of Software                    	                                           | 10/2023 |
+| Udemy, Tester From Scratch 2023. Web/Mobile, Postman, SQL, Git, Bash                                                   | 09/2023 |
+| Sololearn, Intermediate SQL                                                                                        	   | 08/2023 |                                                                           
+| EPAM University Program, Software Testing                                                                          	   | 06/2023 |
+| Udemy, Software Testing from Zero to Expert                                                                        	   | 11/2022 |
+| Prometheus, Basics of Software Testing                                                                                 | 05/2022 |
 
 ---
 
 ### 📚 Books read:
-1. "Software Testing. Base Course. Third Edition" by Svyatoslav Kulikov
+1. "Software Testing: Base Course, Third Edition" by Svyatoslav Kulikov
 2. "A Practitioner's Guide to Software Test Design" by Lee Copeland
-3. "Pro Git 2nd ed. Edition" by Scott Chacon, Ben Straub
+3. "Pro Git 2nd Edition" by Scott Chacon, Ben Straub
 
 ---
 
