@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-QA Engineer with 1.5+ years of experience in manual and automated testing. Skilled in web and mobile application testing. Web and API automation with Python, Selenium, and Requests. Proficient in SDLC/STLC. Conducted full-cycle testing for 6 projects across construction management, e-learning, and e-commerce solutions. Proven collaborator in Agile/Scrum environments, adept at analyzing requirements, collaborating with cross-functional teams, and working independently to meet project goals.
+QA Engineer with 2+ years of experience in manual and automated testing across web and mobile applications. Specialized in UI and API test automation using Playwright (JavaScript/TypeScript) and Selenium (Python). Conducted full-cycle testing for 7 projects spanning construction management, e-learning, e-commerce, and fintech domains. Proven ability to collaborate effectively in Agile/Scrum environments while delivering quality results independently.
 
 ---
 
